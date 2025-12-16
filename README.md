@@ -19,13 +19,6 @@ No installation required - runs directly in your browser!
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Example Data](#example-data)
-- [Citation](#citation)
-- [Authors](#authors)
-- [License](#license)
 
 ---
 
