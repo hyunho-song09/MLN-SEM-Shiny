@@ -33,7 +33,7 @@ MLN-SEM is a comprehensive Shiny web application that enables researchers to:
 
 ### Key Methodology
 
-- **Module Construction**: WGCNA-based eigengene analysis
+- **Module Construction**: clustering and dimension reduction
 - **Instrumental Variables**: Robust IV-SEM framework
 - **Pathway Validation**: Sargan tests and weak-F statistics
 - **Network Visualization**: Correlation vs. causal relationship comparison
